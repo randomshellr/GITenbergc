@@ -1,0 +1,65 @@
+_repo: Men-of-the-Bible--Some-Lesser-Known-Characters_13860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rowlands, D.
+    gutenberg_agent_id: '5254'
+    url: http://www.gutenberg.org/2009/agents/5254
+  - agent_name: Milligan, George
+    birthdate: 1860
+    deathdate: 1934
+    gutenberg_agent_id: '5250'
+    url: http://www.gutenberg.org/2009/agents/5250
+  - agent_name: Rowland, Alfred
+    birthdate: 1840
+    deathdate: 1925
+    gutenberg_agent_id: '5262'
+    url: http://www.gutenberg.org/2009/agents/5262
+  - agent_name: Lewis, H. Elvet (Howell Elvet)
+    aliases:
+    - Elfed
+    - Lewis, Howell Elvet
+    gutenberg_agent_id: '5253'
+    url: http://www.gutenberg.org/2009/agents/5253
+  - agent_name: Adeney, Walter F. (Walter Frederic)
+    alias: Adeney, W. F. (Walter Frederic)
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '5251'
+    url: http://www.gutenberg.org/2009/agents/5251
+  - agent_name: Townsend, W. J. (William John)
+    alias: Townsend, William John
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '5255'
+    url: http://www.gutenberg.org/2009/agents/5255
+  - agent_name: Gibbon, J. Morgan
+    gutenberg_agent_id: '5252'
+    url: http://www.gutenberg.org/2009/agents/5252
+  - agent_name: Greenhough, J. G.
+    gutenberg_agent_id: '5261'
+    url: http://www.gutenberg.org/2009/agents/5261
+description: ''
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Biography'
+- !lcc 'BS'
+tableOfContents: Enoch / W.J. Townsend -- Eldad and Medad / A. Rowland -- Barzillai
+  / G. Milligan -- Adonijah / A. Rowland -- Hiram / W.J. Townsend -- Jeroboam / A.
+  Rowland -- Asa / A. Rowland -- Ahaziah / J.G. Greenhough -- Gehazi / J.M. Gibbon
+  -- Hazael / J.G. Greenhough -- Manasseh / J.G. Greenhough -- Amaziah / J.G. Greenhough
+  -- Jabez / J.G. Greenhough -- Simeon / H.E. Lewis -- Pontius Pilate / W.F. Adeney
+  -- Barabbas / J.G. Greenhough -- Joseph of Arimathea / A. Rowland -- Philip, the
+  Evangelist / G. Milligan -- Ananias and Sapphira / G. Milligan -- Demas / D. Rowlands.
+title: Men of the Bible; Some Lesser-Known Characters
+url: http://www.gutenberg.org/ebooks/13860
